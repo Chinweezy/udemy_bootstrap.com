@@ -1,3 +1,4 @@
+/* Start Global Styles */
 body {
     padding-top: 54px;
 }
@@ -20,4 +21,25 @@ body {
 
 .portfolio-item {
     margin-bottom: 30px;
+}
+
+/* End Global Styles */
+
+/* Nav bar */
+.bg-dark {
+    background-color: navy!important;
+}
+
+/* Call to Action Hover State */
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #100453;
+    border-color: #100453 ;
+}
+
+/* Button Hover State */
+.btn-primary:hover {
+    color: #fff;
+    background-color: #100453;
+    border-color: #100453;
 }
